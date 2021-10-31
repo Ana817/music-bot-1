@@ -1,0 +1,31 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "description": "A discord music bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-dionisio/music-bot.git"
+  },
+  "author": {
+    "name": "Marcos Dionisio",
+    "email": "marcos.m.dionisio@hotmail.com",
+    "site": "https://github.com/marcos-dionisio"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcos-dionisio/music-bot/issues"
+  },
+  "homepage": "https://github.com/marcos-dionisio/music-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "opusscript": "^0.0.8",
+    "walking-tree": "^1.1.4",
+    "ytdl-core": "^4.5.0",
+    "ytpl": "^2.1.0",
+    "ytsr": "^3.4.0"
+  }
+}
