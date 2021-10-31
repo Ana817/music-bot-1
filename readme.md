@@ -1,6 +1,7 @@
 # Music Bot
 
-Um bot programado e javascript de presente pro pessoal ,esse foi bot foi codado por mim no celular pra nostrar que não existe limitações quando quer ser um bom programador!
+Um bot programado em javascript de presente pro pessoal! 
+Esse foi bot foi codado por mim no celular pra nostrar que não existe limitações quando quer ser um bom programador!
 
 ## Como usar?
 
